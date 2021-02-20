@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  push-prox:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-02-21T01:02:46.221356855+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 80635c9895ee6d71e0cc695fec6605dc0304a217e5f3e91c0fac672eebfc4847
+    name: push-prox
+    type: application
+    urls:
+    - https://andreymaznyak.github.io/wakapi-helm-chart/push-prox-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-02-21T01:02:46.220729271+03:00"
